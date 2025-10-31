@@ -6,6 +6,7 @@ add_executable(${CMAKE_PROJECT_NAME}
     setup.cpp
     Pars.cpp
     time_setup.cpp
+    LiquidCrystal.cpp
     
 )
 
